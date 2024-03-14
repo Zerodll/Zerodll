@@ -40,4 +40,7 @@
     <a href="https://www.instagram.com/jotave000" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
 
-  ![snake gif](https://github.com/Zerodll/Zerodll/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zerodll/Zerodll/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zerodll/Zerodll/output/github-contribution-grid-snake.svg">
+</picture>
