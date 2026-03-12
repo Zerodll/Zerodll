@@ -7,9 +7,6 @@
   <li> 
     <p1>✏️ Atualmente estou aprendendo <strong>Java</strong>, <strong>Python</strong> e <strong>SQL</strong>.</p1>
   </li>
-  <li>
-    <p1>😄 Pronouns: <strong>Ele/Dele</strong>.</p1>
-  </li>
     <li>
   <p1>🤔 Sempre estou aberto a <strong>comentários</strong>, <strong>ajudas</strong>, <strong>oportunidades</strong> e novos <strong>aprendizados</strong>!</p1>
     </li>
