@@ -1,9 +1,6 @@
 <h2>Olá! Eu sou o <strong>Zero</strong>👋</h2> 
 
 <ul>
-  <li>
-    <p1>🔧 No momento estou focado no <strong>Back-End</strong>, porém, tenho experiência <strong>Full-Stack</strong>!</p1>
-  </li> 
   <li> 
     <p1>✏️ Atualmente estou aprendendo <strong>Java</strong>, <strong>Python</strong> e <strong>SQL</strong>.</p1>
   </li>
